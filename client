@@ -19,7 +19,7 @@ def aiMsgCreat(msg:str) -> dict:
 
 def get_chat(msg:list) -> str:
     """
-    msg：纪录上下文信息
+    msg：记录上下文信息
     """
     url = "http://url/chat2"  #url填入服务端域名或者公网IP
 
